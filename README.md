@@ -29,8 +29,8 @@ Session 7: transparency and accountability
 
 <br>
 <br>
-##Examination
-
+## Examination
+<br>
 The grade is based on 
 
 1. a group presentation of 20 min incl. handout (30% of the grade). The group presentations (2-3 students) will each address one specific literature piece and related ethical issues. 
