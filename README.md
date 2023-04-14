@@ -27,8 +27,9 @@ Session 6: people and planet
 01.06., 15.15 – 19.30 h
 Session 7: transparency and accountability
 
-
-Examination
+<br>
+<br>
+##Examination
 
 The grade is based on 
 
