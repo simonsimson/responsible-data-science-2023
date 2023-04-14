@@ -29,10 +29,11 @@ Session 6: people and planet
 
 01.06., 15.15 – 19.30 h
 Session 7: transparency and accountability
+
+<br>
 <br>
 
 ## Examination
-<br>
 The grade is based on 
 
 1. a group presentation of 20 min incl. handout (30% of the grade). The group presentations (2-3 students) will each address one specific literature piece and related ethical issues. 
