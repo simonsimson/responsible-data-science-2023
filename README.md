@@ -3,4 +3,6 @@ University course on Responsible Data Science at Hasso-Plattner-Institute (Potsd
 
 Lecturer: Dr. Simon David Hirsbrunner, International Center for Ethics in the Sciences (IZEW), simon.hirsbrunner@uni-tuebingen.de
 
+
+
 ## Course plan
