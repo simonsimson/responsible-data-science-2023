@@ -36,6 +36,6 @@ Session 7: transparency and accountability
 ## Examination
 The grade is based on 
 
-1. a group presentation of 20 min incl. handout (30% of the grade). The group presentations (2-3 students) will each address one specific literature piece and related ethical issues. 
+1. a group presentation of 20 min incl. handout (40% of the grade). The group presentations (2-3 students) will each address one specific literature piece and related ethical issues. 
 
-2. a written analysis and concept for a responsible AI system à 6 pages per person (70% of the grade). The paper should apply a VSD-based approach and discuss the ethical issues covered by the course. Students are also invited to submit (longer) papers developed in a group (e.g. 18 pages for 3 students with section. markers for the individual contributions).
+2. a written analysis and concept for a responsible AI system à 6 pages per person (60% of the grade). The paper should apply a VSD-based approach and discuss the ethical issues covered by the course. Students are also invited to submit (longer) papers developed in a group (e.g. 18 pages for 3 students with section. markers for the individual contributions).
