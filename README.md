@@ -13,7 +13,7 @@ Lecturer: Dr. Simon David Hirsbrunner, International Center for Ethics in the Sc
 Session 1: Introductory session with assignment of presentation topics 
 
 26.4 , 15.15 – 18.30 h
-Session 2: Applied ethics and Responsible Data Science as socio-technical challenges
+Session 2: Applied ethics and Value-Sensitive Design for Data Science and AI
 
 27.4 , 15.15 – 18.30 h
 Session 3: discrimination, fairness and diversity 
