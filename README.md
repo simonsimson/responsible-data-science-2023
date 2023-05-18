@@ -21,10 +21,10 @@ Session 3: discrimination, fairness and diversity
 17.05., 15.15 – 19.30 h
 Session 4: privacy and informational self-determination
 
-25.05, 15.15 – 19.30 h
+24.05, 15.15 – 19.30 h
 Session 5: data quality, reliability and safety 
 
-31.05., 15.15 – 19.30 h
+25.05., 15.15 – 19.30 h
 Session 6: people and planet
 
 01.06., 15.15 – 19.30 h
