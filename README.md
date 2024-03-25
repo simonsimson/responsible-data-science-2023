@@ -1,5 +1,5 @@
-# Responsible Data Science
-2023 University course on Responsible Data Science at Hasso-Plattner-Institute (Potsdam, Germany)
+# Responsible Data Science 2023
+University course on Responsible Data Science at Hasso-Plattner-Institute (Potsdam, Germany), summer semester 2023
 Lecturer: Dr. Simon David Hirsbrunner, International Center for Ethics in the Sciences (IZEW), simon.hirsbrunner@uni-tuebingen.de.   
 <br>
 <br>
