@@ -1,6 +1,6 @@
 # Responsible Data Science
-University course on Responsible Data Science at Hasso-Plattner-Institute (Potsdam, Germany)
-Lecturer: Dr. Simon David Hirsbrunner, Research Team Leader, AI and Data Ethics, International Center for Ethics in the Sciences (IZEW), simon.hirsbrunner@uni-tuebingen.de.   
+2023 University course on Responsible Data Science at Hasso-Plattner-Institute (Potsdam, Germany)
+Lecturer: Dr. Simon David Hirsbrunner, International Center for Ethics in the Sciences (IZEW), simon.hirsbrunner@uni-tuebingen.de.   
 <br>
 <br>
 
@@ -9,29 +9,26 @@ Lecturer: Dr. Simon David Hirsbrunner, Research Team Leader, AI and Data Ethics,
 
 ## Course plan
 
-10.04.2024, 13.30 – 15.00 h
-Session 1: Introductory Session with Assignment of Presentation Topics
+19.4., 15.15 – 16.45 h
+Session 1: Introductory session with assignment of presentation topics 
 
-24.04.2024, 13.30 – 16.45 h
-Session 2: Applied Ethics and Value-Sensitive Design
+26.4 , 15.15 – 18.30 h
+Session 2: Applied ethics and Value-Sensitive Design for Data Science and AI
 
-15.05.2024, 13.30 – 16.45 h
-Session 3: Discrimination, Fairness and Diversity
+27.4 , 15.15 – 18.30 h
+Session 3: discrimination, fairness and diversity 
 
-22.05.2024, 13.30 – 16.45 h
-Session 4: Privacy and Informational Self-Determination
+17.05., 15.15 – 19.30 h
+Session 4: privacy and informational self-determination
 
-29.05.2024, 13.30 – 16.45 h
-Session 5: Data Quality, Reliability and Safety
+24.05, 15.15 – 19.30 h
+Session 5: data quality, reliability and safety 
 
-05.06.2024, 13.30 – 16.45 h
-Session 6: Transparency and Explainability
+25.05., 15.15 – 19.30 h
+Session 6: people and planet
 
-12.06.2024, 13.30 – 16.45 h
-Session 7: Contestable AI
-
-26.06.2024, 13.30 – 16.45 h
-Session 8: Human Oversight and Accountability
+01.06., 15.15 – 19.30 h
+Session 7: transparency and accountability
 
 <br>
 <br>
